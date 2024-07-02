@@ -1,0 +1,7 @@
+C:\Users\famsa\source\repos\Lakuach\Lakuach\bin\Debug\Lakuach.exe.config
+C:\Users\famsa\source\repos\Lakuach\Lakuach\bin\Debug\Lakuach.exe
+C:\Users\famsa\source\repos\Lakuach\Lakuach\bin\Debug\Lakuach.pdb
+C:\Users\famsa\source\repos\Lakuach\Lakuach\obj\Debug\Lakuach.csproj.AssemblyReference.cache
+C:\Users\famsa\source\repos\Lakuach\Lakuach\obj\Debug\Lakuach.csproj.CoreCompileInputs.cache
+C:\Users\famsa\source\repos\Lakuach\Lakuach\obj\Debug\Lakuach.exe
+C:\Users\famsa\source\repos\Lakuach\Lakuach\obj\Debug\Lakuach.pdb

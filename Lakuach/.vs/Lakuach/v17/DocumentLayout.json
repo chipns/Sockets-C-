@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\famsa\\source\\repos\\Lakuach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B79C8E9-0F48-4A73-B5B9-9E84CF2873BC}|Lakuach\\Lakuach.csproj|c:\\users\\famsa\\source\\repos\\lakuach\\lakuach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B79C8E9-0F48-4A73-B5B9-9E84CF2873BC}|Lakuach\\Lakuach.csproj|solutionrelative:lakuach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\famsa\\source\\repos\\Lakuach\\Lakuach\\Program.cs",
+              "RelativeDocumentMoniker": "Lakuach\\Program.cs",
+              "ToolTip": "C:\\Users\\famsa\\source\\repos\\Lakuach\\Lakuach\\Program.cs",
+              "RelativeToolTip": "Lakuach\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:55:17.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
